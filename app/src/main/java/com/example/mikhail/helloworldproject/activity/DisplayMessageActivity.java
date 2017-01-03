@@ -1,10 +1,12 @@
-package com.example.mikhail.helloworldproject;
+package com.example.mikhail.helloworldproject.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.example.mikhail.helloworldproject.R;
 
 public class DisplayMessageActivity extends AppCompatActivity {
 
