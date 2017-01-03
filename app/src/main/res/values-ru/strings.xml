@@ -2,4 +2,5 @@
     <string name="app_name">ПриветМирПроект</string>
     <string name="edit_message">Введите сообщение</string>
     <string name="button_send">Отправить</string>
+    <string name="article_text">Текст артикля</string>
 </resources>
