@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorldProject</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="app_name">ПриветМирПроект</string>
+    <string name="edit_message">Введите сообщение</string>
+    <string name="button_send">Отправить</string>
 </resources>
